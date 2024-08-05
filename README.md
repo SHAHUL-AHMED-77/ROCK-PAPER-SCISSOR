@@ -97,4 +97,3 @@ rps()
 3. Run either `rps_explicit.py` or `rps_simplified.py` to play the game.
 
 Enjoy playing Rock-Paper-Scissors!
-```
